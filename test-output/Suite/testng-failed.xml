@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="methods" name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="10">
+  <listeners>
+    <listener class-name="runner.NGTestListener"/>
+  </listeners>
+  <test name="Complete test run">
+    <classes>
+      <class name="runner.TestRunner"/>
+      <class name="runner.TestRunner2"/>
+    </classes>
+  </test> <!-- Complete test run -->
+</suite> <!-- Failed suite [Suite] -->

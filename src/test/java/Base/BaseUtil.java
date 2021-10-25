@@ -8,9 +8,7 @@ import java.io.IOException;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterSuite;
 
-/**
- * Created by Karthik on 21/09/2019.
- */
+
 
 public class BaseUtil {
 

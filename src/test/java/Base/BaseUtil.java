@@ -16,7 +16,7 @@ public class BaseUtil {
 // this is master branch - mastwr
 
 
-    public  WebDriver mrr;
+    public  WebDriver Driver;
 
     public ExtentReports extent;
 

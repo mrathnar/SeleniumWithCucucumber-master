@@ -18,7 +18,9 @@ public class BaseUtil {
     // stash testing
 
 
-    public  WebDriver Driver;
+    //public  WebDriver Driver;
+     public  WebDriver d;
+
 
 
     public ExtentReports extent;
